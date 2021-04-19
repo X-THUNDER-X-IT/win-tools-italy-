@@ -2,17 +2,17 @@
 # Italian
 Per questi file non funziona con office ma solo su windows!
  Inizia controllando se c'è connessione a internet e successivamente avvia come amministratore il cmd se hai scaricato il file cmd
- Per il file .bat Avvialo semplicemente come admin (sempre prima controllare se connesso a internet)
+ per il file .bat Avvialo semplicemente come admin (sempre prima controllare se connesso a internet)
  Se poi si avviano finestre con un cubo e dei mini fuochi allora significa che va
  Quando avrà finito il lavoro avrete windows 10 attivato in modo GRATIS
  # English
  Start by checking if there is internet connection and then start the cmd as administrator if you have downloaded the cmd file
- For the .bat file Simply start it as admin (always first check if connected to the internet)
+ for the .bat file Simply start it as admin (always first check if connected to the internet)
  If you then start windows with a cube and mini fires then it means that it goes
  When the job is done you will have windows 10 activated for FREE
  # Spanish
  Comience verificando si hay conexión a Internet y luego inicie cmd como administrador si ha descargado el archivo cmd
- Para el archivo .bat Simplemente inícielo como administrador (siempre primero verifique si está conectado a Internet)
+ para el archivo .bat Simplemente inícielo como administrador (siempre primero verifique si está conectado a Internet)
  Entonces, si inicia Windows con un cubo y mini incendios, significa que va
  Cuando termine el trabajo, tendrá Windows 10 activado GRATIS
  # Arabic
